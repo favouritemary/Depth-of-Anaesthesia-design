@@ -2,7 +2,4 @@ numpy
 pandas
 matplotlib
 seaborn
-warnings
-sklearn
-scipy.stats
-mrmr
+scikit-learn
